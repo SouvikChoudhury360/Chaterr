@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456865885648",
+    "project_id": "chaterr-5b9fc",
+    "storage_bucket": "chaterr-5b9fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456865885648:android:ffd3d804a64367ff26ddd5",
+        "android_client_info": {
+          "package_name": "co.souvik.chaterr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456865885648-el0q96j22uv6mkera1lgb1nne66tke4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLIeN4IjRnZB0niC5v2cw4w9dTCY2UFCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456865885648-el0q96j22uv6mkera1lgb1nne66tke4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
